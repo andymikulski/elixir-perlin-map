@@ -1,0 +1,2823 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+/*
+<link rel="stylesheet" type="text/css" href="sprites/mobs.css" />
+<div class="sprite AirA"></div>
+<div class="sprite BallB"></div>
+<div class="sprite BallD"></div>
+<div class="sprite BatSmallA"></div>
+<div class="sprite BeardA"></div>
+<div class="sprite BeardB"></div>
+<div class="sprite BrainA"></div>
+<div class="sprite BrainC"></div>
+<div class="sprite ChestA"></div>
+<div class="sprite ChickenA"></div>
+<div class="sprite ChickenB"></div>
+<div class="sprite DiscA"></div>
+<div class="sprite DogA"></div>
+<div class="sprite DogD"></div>
+<div class="sprite DuckA"></div>
+<div class="sprite DwarfA"></div>
+<div class="sprite DwarfE"></div>
+<div class="sprite DyeA"></div>
+<div class="sprite DyeD"></div>
+<div class="sprite EarthB"></div>
+<div class="sprite EarthC"></div>
+<div class="sprite ElementalOrbB"></div>
+<div class="sprite EyeB"></div>
+<div class="sprite EyeBallB"></div>
+<div class="sprite FishB"></div>
+<div class="sprite FrogC"></div>
+<div class="sprite GhastA"></div>
+<div class="sprite GhastB"></div>
+<div class="sprite GoatA"></div>
+<div class="sprite GoatA idle"></div>
+<div class="sprite HareA"></div>
+<div class="sprite HareA action"></div>
+<div class="sprite HareB"></div>
+<div class="sprite HeadA"></div>
+<div class="sprite KlackonA"></div>
+<div class="sprite MushroomA"></div>
+<div class="sprite OrbC"></div>
+<div class="sprite OrbD"></div>
+<div class="sprite PuddleA"></div>
+<div class="sprite SentryC"></div>
+<div class="sprite SentryCopterB"></div>
+<div class="sprite SentryCopterB action"></div>
+<div class="sprite SkeletonB"></div>
+<div class="sprite SkeletonB action"></div>
+<div class="sprite SkullA"></div>
+<div class="sprite SlimeE"></div>
+<div class="sprite SlimeI"></div>
+<div class="sprite SlimeSmallerA"></div>
+<div class="sprite SlimeSmallerA action"></div>
+<div class="sprite SlimeSquareA"></div>
+<div class="sprite SlimeSquareH"></div>
+<div class="sprite SlimeSquareI"></div>
+<div class="sprite SlimeSquareSmallA"></div>
+<div class="sprite SlimeSquareSmallerA"></div>
+<div class="sprite SlimeSquareSmallerI"></div>
+<div class="sprite SpaceA"></div>
+<div class="sprite SpaceB"></div>
+<div class="sprite SparksA"></div>
+<div class="sprite SquirrelA"></div>
+<div class="sprite WitchB"></div>
+<div class="sprite ZombieB"></div>
+<div class="sprite BallB action"></div>
+<div class="sprite BallD action"></div>
+<div class="sprite ChestA action"></div>
+<div class="sprite ChickenA action"></div>
+<div class="sprite DwarfA action"></div>
+<div class="sprite DwarfE action"></div>
+<div class="sprite DyeA action"></div>
+<div class="sprite DyeD action"></div>
+<div class="sprite EyeB action"></div>
+<div class="sprite EyeBallB action"></div>
+<div class="sprite GhastA action"></div>
+<div class="sprite GhastB action"></div>
+<div class="sprite HeadA action"></div>
+<div class="sprite OrbC action"></div>
+<div class="sprite PuddleA action"></div>
+<div class="sprite SentryC action"></div>
+<div class="sprite SkullA action"></div>
+<div class="sprite SlimeE action"></div>
+<div class="sprite SlimeI action"></div>
+<div class="sprite WitchB action"></div>
+*/
+
+.sprite.AirA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 0% 0%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-AirA 624ms steps(1) infinite forwards;
+}
+
+@keyframes anim-AirA {
+	0% {
+		background-position: 0% 0%;
+	}
+	25% {
+		background-position: 6.666666666666667% 0%;
+	}
+	50% {
+		background-position: 13.333333333333334% 0%;
+	}
+	75% {
+		background-position: 20% 0%;
+	}
+	100% {
+		background-position: 26.666666666666668% 0%;
+	}
+}
+
+.sprite.BallB {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 33.333333333333336% 0%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-BallB 749ms steps(1) infinite forwards;
+}
+
+@keyframes anim-BallB {
+	0% {
+		background-position: 33.333333333333336% 0%;
+	}
+	20% {
+		background-position: 40% 0%;
+	}
+	40% {
+		background-position: 46.666666666666664% 0%;
+	}
+	60% {
+		background-position: 53.333333333333336% 0%;
+	}
+	80% {
+		background-position: 60% 0%;
+	}
+	100% {
+		background-position: 66.66666666666667% 0%;
+	}
+}
+
+.sprite.BallD {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 73.33333333333333% 0%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-BallD 749ms steps(1) infinite forwards;
+}
+
+@keyframes anim-BallD {
+	0% {
+		background-position: 73.33333333333333% 0%;
+	}
+	20% {
+		background-position: 80% 0%;
+	}
+	40% {
+		background-position: 86.66666666666667% 0%;
+	}
+	60% {
+		background-position: 93.33333333333333% 0%;
+	}
+	80% {
+		background-position: 100% 0%;
+	}
+	100% {
+		background-position: 0% 3.5714285714285716%;
+	}
+}
+
+.sprite.BatSmallA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 6.666666666666667% 3.5714285714285716%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-BatSmallA 749ms steps(1) infinite forwards;
+}
+
+@keyframes anim-BatSmallA {
+	0% {
+		background-position: 6.666666666666667% 3.5714285714285716%;
+	}
+	20% {
+		background-position: 13.333333333333334% 3.5714285714285716%;
+	}
+	40% {
+		background-position: 20% 3.5714285714285716%;
+	}
+	60% {
+		background-position: 26.666666666666668% 3.5714285714285716%;
+	}
+	80% {
+		background-position: 33.333333333333336% 3.5714285714285716%;
+	}
+	100% {
+		background-position: 40% 3.5714285714285716%;
+	}
+}
+
+.sprite.BeardA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 46.666666666666664% 3.5714285714285716%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-BeardA 1249ms steps(1) infinite forwards;
+}
+
+@keyframes anim-BeardA {
+	0% {
+		background-position: 46.666666666666664% 3.5714285714285716%;
+	}
+	11.11111111111111% {
+		background-position: 53.333333333333336% 3.5714285714285716%;
+	}
+	22.22222222222222% {
+		background-position: 60% 3.5714285714285716%;
+	}
+	33.33333333333333% {
+		background-position: 66.66666666666667% 3.5714285714285716%;
+	}
+	44.44444444444444% {
+		background-position: 73.33333333333333% 3.5714285714285716%;
+	}
+	55.55555555555556% {
+		background-position: 80% 3.5714285714285716%;
+	}
+	66.66666666666666% {
+		background-position: 86.66666666666667% 3.5714285714285716%;
+	}
+	77.77777777777779% {
+		background-position: 93.33333333333333% 3.5714285714285716%;
+	}
+	88.88888888888889% {
+		background-position: 100% 3.5714285714285716%;
+	}
+	100% {
+		background-position: 0% 7.142857142857143%;
+	}
+}
+
+.sprite.BeardB {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 6.666666666666667% 7.142857142857143%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-BeardB 1249ms steps(1) infinite forwards;
+}
+
+@keyframes anim-BeardB {
+	0% {
+		background-position: 6.666666666666667% 7.142857142857143%;
+	}
+	11.11111111111111% {
+		background-position: 13.333333333333334% 7.142857142857143%;
+	}
+	22.22222222222222% {
+		background-position: 20% 7.142857142857143%;
+	}
+	33.33333333333333% {
+		background-position: 26.666666666666668% 7.142857142857143%;
+	}
+	44.44444444444444% {
+		background-position: 33.333333333333336% 7.142857142857143%;
+	}
+	55.55555555555556% {
+		background-position: 40% 7.142857142857143%;
+	}
+	66.66666666666666% {
+		background-position: 46.666666666666664% 7.142857142857143%;
+	}
+	77.77777777777779% {
+		background-position: 53.333333333333336% 7.142857142857143%;
+	}
+	88.88888888888889% {
+		background-position: 60% 7.142857142857143%;
+	}
+	100% {
+		background-position: 66.66666666666667% 7.142857142857143%;
+	}
+}
+
+.sprite.BrainA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 73.33333333333333% 7.142857142857143%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-BrainA 1499ms steps(1) infinite forwards;
+}
+
+@keyframes anim-BrainA {
+	0% {
+		background-position: 73.33333333333333% 7.142857142857143%;
+	}
+	9.090909090909092% {
+		background-position: 80% 7.142857142857143%;
+	}
+	18.181818181818183% {
+		background-position: 80% 7.142857142857143%;
+	}
+	27.27272727272727% {
+		background-position: 86.66666666666667% 7.142857142857143%;
+	}
+	36.36363636363637% {
+		background-position: 93.33333333333333% 7.142857142857143%;
+	}
+	45.45454545454545% {
+		background-position: 100% 7.142857142857143%;
+	}
+	54.54545454545454% {
+		background-position: 0% 10.714285714285714%;
+	}
+	63.63636363636363% {
+		background-position: 6.666666666666667% 10.714285714285714%;
+	}
+	72.72727272727273% {
+		background-position: 13.333333333333334% 10.714285714285714%;
+	}
+	81.81818181818183% {
+		background-position: 20% 10.714285714285714%;
+	}
+	90.9090909090909% {
+		background-position: 26.666666666666668% 10.714285714285714%;
+	}
+	100% {
+		background-position: 33.333333333333336% 10.714285714285714%;
+	}
+}
+
+.sprite.BrainC {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 40% 10.714285714285714%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-BrainC 1499ms steps(1) infinite forwards;
+}
+
+@keyframes anim-BrainC {
+	0% {
+		background-position: 40% 10.714285714285714%;
+	}
+	9.090909090909092% {
+		background-position: 46.666666666666664% 10.714285714285714%;
+	}
+	18.181818181818183% {
+		background-position: 46.666666666666664% 10.714285714285714%;
+	}
+	27.27272727272727% {
+		background-position: 53.333333333333336% 10.714285714285714%;
+	}
+	36.36363636363637% {
+		background-position: 60% 10.714285714285714%;
+	}
+	45.45454545454545% {
+		background-position: 66.66666666666667% 10.714285714285714%;
+	}
+	54.54545454545454% {
+		background-position: 73.33333333333333% 10.714285714285714%;
+	}
+	63.63636363636363% {
+		background-position: 80% 10.714285714285714%;
+	}
+	72.72727272727273% {
+		background-position: 86.66666666666667% 10.714285714285714%;
+	}
+	81.81818181818183% {
+		background-position: 93.33333333333333% 10.714285714285714%;
+	}
+	90.9090909090909% {
+		background-position: 100% 10.714285714285714%;
+	}
+	100% {
+		background-position: 0% 14.285714285714286%;
+	}
+}
+
+.sprite.ChestA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 6.666666666666667% 14.285714285714286%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-ChestA 124ms steps(1) infinite forwards;
+}
+
+@keyframes anim-ChestA {
+	NaN% {
+		background-position: 6.666666666666667% 14.285714285714286%;
+	}
+}
+
+.sprite.ChickenA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 13.333333333333334% 14.285714285714286%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-ChickenA 874ms steps(1) infinite forwards;
+}
+
+@keyframes anim-ChickenA {
+	0% {
+		background-position: 13.333333333333334% 14.285714285714286%;
+	}
+	16.666666666666664% {
+		background-position: 20% 14.285714285714286%;
+	}
+	33.33333333333333% {
+		background-position: 26.666666666666668% 14.285714285714286%;
+	}
+	50% {
+		background-position: 33.333333333333336% 14.285714285714286%;
+	}
+	66.66666666666666% {
+		background-position: 40% 14.285714285714286%;
+	}
+	83.33333333333334% {
+		background-position: 46.666666666666664% 14.285714285714286%;
+	}
+	100% {
+		background-position: 53.333333333333336% 14.285714285714286%;
+	}
+}
+
+.sprite.ChickenB {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 60% 14.285714285714286%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-ChickenB 1124ms steps(1) infinite forwards;
+}
+
+@keyframes anim-ChickenB {
+	0% {
+		background-position: 60% 14.285714285714286%;
+	}
+	12.5% {
+		background-position: 66.66666666666667% 14.285714285714286%;
+	}
+	25% {
+		background-position: 73.33333333333333% 14.285714285714286%;
+	}
+	37.5% {
+		background-position: 80% 14.285714285714286%;
+	}
+	50% {
+		background-position: 86.66666666666667% 14.285714285714286%;
+	}
+	62.5% {
+		background-position: 93.33333333333333% 14.285714285714286%;
+	}
+	75% {
+		background-position: 100% 14.285714285714286%;
+	}
+	87.5% {
+		background-position: 0% 17.857142857142858%;
+	}
+	100% {
+		background-position: 6.666666666666667% 17.857142857142858%;
+	}
+}
+
+.sprite.DiscA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 13.333333333333334% 17.857142857142858%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-DiscA 624ms steps(1) infinite forwards;
+}
+
+@keyframes anim-DiscA {
+	0% {
+		background-position: 13.333333333333334% 17.857142857142858%;
+	}
+	25% {
+		background-position: 20% 17.857142857142858%;
+	}
+	50% {
+		background-position: 26.666666666666668% 17.857142857142858%;
+	}
+	75% {
+		background-position: 33.333333333333336% 17.857142857142858%;
+	}
+	100% {
+		background-position: 40% 17.857142857142858%;
+	}
+}
+
+.sprite.DogA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 46.666666666666664% 17.857142857142858%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-DogA 499ms steps(1) infinite forwards;
+}
+
+@keyframes anim-DogA {
+	0% {
+		background-position: 46.666666666666664% 17.857142857142858%;
+	}
+	33.33333333333333% {
+		background-position: 53.333333333333336% 17.857142857142858%;
+	}
+	66.66666666666666% {
+		background-position: 60% 17.857142857142858%;
+	}
+	100% {
+		background-position: 66.66666666666667% 17.857142857142858%;
+	}
+}
+
+.sprite.DogD {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 73.33333333333333% 17.857142857142858%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-DogD 499ms steps(1) infinite forwards;
+}
+
+@keyframes anim-DogD {
+	0% {
+		background-position: 73.33333333333333% 17.857142857142858%;
+	}
+	33.33333333333333% {
+		background-position: 80% 17.857142857142858%;
+	}
+	66.66666666666666% {
+		background-position: 86.66666666666667% 17.857142857142858%;
+	}
+	100% {
+		background-position: 93.33333333333333% 17.857142857142858%;
+	}
+}
+
+.sprite.DuckA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 100% 17.857142857142858%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-DuckA 749ms steps(1) infinite forwards;
+}
+
+@keyframes anim-DuckA {
+	0% {
+		background-position: 100% 17.857142857142858%;
+	}
+	20% {
+		background-position: 0% 21.428571428571427%;
+	}
+	40% {
+		background-position: 6.666666666666667% 21.428571428571427%;
+	}
+	60% {
+		background-position: 13.333333333333334% 21.428571428571427%;
+	}
+	80% {
+		background-position: 20% 21.428571428571427%;
+	}
+	100% {
+		background-position: 26.666666666666668% 21.428571428571427%;
+	}
+}
+
+.sprite.DwarfA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 33.333333333333336% 21.428571428571427%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-DwarfA 499ms steps(1) infinite forwards;
+}
+
+@keyframes anim-DwarfA {
+	0% {
+		background-position: 33.333333333333336% 21.428571428571427%;
+	}
+	33.33333333333333% {
+		background-position: 40% 21.428571428571427%;
+	}
+	66.66666666666666% {
+		background-position: 46.666666666666664% 21.428571428571427%;
+	}
+	100% {
+		background-position: 53.333333333333336% 21.428571428571427%;
+	}
+}
+
+.sprite.DwarfE {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 60% 21.428571428571427%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-DwarfE 499ms steps(1) infinite forwards;
+}
+
+@keyframes anim-DwarfE {
+	0% {
+		background-position: 60% 21.428571428571427%;
+	}
+	33.33333333333333% {
+		background-position: 66.66666666666667% 21.428571428571427%;
+	}
+	66.66666666666666% {
+		background-position: 73.33333333333333% 21.428571428571427%;
+	}
+	100% {
+		background-position: 80% 21.428571428571427%;
+	}
+}
+
+.sprite.DyeA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 86.66666666666667% 21.428571428571427%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-DyeA 749ms steps(1) infinite forwards;
+}
+
+@keyframes anim-DyeA {
+	0% {
+		background-position: 86.66666666666667% 21.428571428571427%;
+	}
+	20% {
+		background-position: 93.33333333333333% 21.428571428571427%;
+	}
+	40% {
+		background-position: 93.33333333333333% 21.428571428571427%;
+	}
+	60% {
+		background-position: 100% 21.428571428571427%;
+	}
+	80% {
+		background-position: 0% 25%;
+	}
+	100% {
+		background-position: 6.666666666666667% 25%;
+	}
+}
+
+.sprite.DyeD {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 13.333333333333334% 25%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-DyeD 624ms steps(1) infinite forwards;
+}
+
+@keyframes anim-DyeD {
+	0% {
+		background-position: 13.333333333333334% 25%;
+	}
+	25% {
+		background-position: 20% 25%;
+	}
+	50% {
+		background-position: 20% 25%;
+	}
+	75% {
+		background-position: 26.666666666666668% 25%;
+	}
+	100% {
+		background-position: 33.333333333333336% 25%;
+	}
+}
+
+.sprite.EarthB {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 40% 25%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-EarthB 499ms steps(1) infinite forwards;
+}
+
+@keyframes anim-EarthB {
+	0% {
+		background-position: 40% 25%;
+	}
+	33.33333333333333% {
+		background-position: 46.666666666666664% 25%;
+	}
+	66.66666666666666% {
+		background-position: 53.333333333333336% 25%;
+	}
+	100% {
+		background-position: 60% 25%;
+	}
+}
+
+.sprite.EarthC {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 66.66666666666667% 25%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-EarthC 499ms steps(1) infinite forwards;
+}
+
+@keyframes anim-EarthC {
+	0% {
+		background-position: 66.66666666666667% 25%;
+	}
+	33.33333333333333% {
+		background-position: 73.33333333333333% 25%;
+	}
+	66.66666666666666% {
+		background-position: 80% 25%;
+	}
+	100% {
+		background-position: 86.66666666666667% 25%;
+	}
+}
+
+.sprite.ElementalOrbB {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 93.33333333333333% 25%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-ElementalOrbB 374ms steps(1) infinite forwards;
+}
+
+@keyframes anim-ElementalOrbB {
+	0% {
+		background-position: 93.33333333333333% 25%;
+	}
+	50% {
+		background-position: 100% 25%;
+	}
+	100% {
+		background-position: 0% 28.571428571428573%;
+	}
+}
+
+.sprite.EyeB {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 6.666666666666667% 28.571428571428573%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-EyeB 499ms steps(1) infinite forwards;
+}
+
+@keyframes anim-EyeB {
+	0% {
+		background-position: 6.666666666666667% 28.571428571428573%;
+	}
+	33.33333333333333% {
+		background-position: 13.333333333333334% 28.571428571428573%;
+	}
+	66.66666666666666% {
+		background-position: 20% 28.571428571428573%;
+	}
+	100% {
+		background-position: 26.666666666666668% 28.571428571428573%;
+	}
+}
+
+.sprite.EyeBallB {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 33.333333333333336% 28.571428571428573%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-EyeBallB 999ms steps(1) infinite forwards;
+}
+
+@keyframes anim-EyeBallB {
+	0% {
+		background-position: 33.333333333333336% 28.571428571428573%;
+	}
+	14.285714285714285% {
+		background-position: 40% 28.571428571428573%;
+	}
+	28.57142857142857% {
+		background-position: 46.666666666666664% 28.571428571428573%;
+	}
+	42.857142857142854% {
+		background-position: 46.666666666666664% 28.571428571428573%;
+	}
+	57.14285714285714% {
+		background-position: 53.333333333333336% 28.571428571428573%;
+	}
+	71.42857142857143% {
+		background-position: 60% 28.571428571428573%;
+	}
+	85.71428571428571% {
+		background-position: 66.66666666666667% 28.571428571428573%;
+	}
+	100% {
+		background-position: 73.33333333333333% 28.571428571428573%;
+	}
+}
+
+.sprite.FishB {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 80% 28.571428571428573%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-FishB 1874ms steps(1) infinite forwards;
+}
+
+@keyframes anim-FishB {
+	0% {
+		background-position: 80% 28.571428571428573%;
+	}
+	7.142857142857142% {
+		background-position: 80% 28.571428571428573%;
+	}
+	14.285714285714285% {
+		background-position: 86.66666666666667% 28.571428571428573%;
+	}
+	21.428571428571427% {
+		background-position: 86.66666666666667% 28.571428571428573%;
+	}
+	28.57142857142857% {
+		background-position: 93.33333333333333% 28.571428571428573%;
+	}
+	35.714285714285715% {
+		background-position: 93.33333333333333% 28.571428571428573%;
+	}
+	42.857142857142854% {
+		background-position: 100% 28.571428571428573%;
+	}
+	50% {
+		background-position: 0% 32.142857142857146%;
+	}
+	57.14285714285714% {
+		background-position: 6.666666666666667% 32.142857142857146%;
+	}
+	64.28571428571429% {
+		background-position: 13.333333333333334% 32.142857142857146%;
+	}
+	71.42857142857143% {
+		background-position: 20% 32.142857142857146%;
+	}
+	78.57142857142857% {
+		background-position: 26.666666666666668% 32.142857142857146%;
+	}
+	85.71428571428571% {
+		background-position: 33.333333333333336% 32.142857142857146%;
+	}
+	92.85714285714286% {
+		background-position: 40% 32.142857142857146%;
+	}
+	100% {
+		background-position: 46.666666666666664% 32.142857142857146%;
+	}
+}
+
+.sprite.FrogC {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 53.333333333333336% 32.142857142857146%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-FrogC 1249ms steps(1) infinite forwards;
+}
+
+@keyframes anim-FrogC {
+	0% {
+		background-position: 53.333333333333336% 32.142857142857146%;
+	}
+	11.11111111111111% {
+		background-position: 60% 32.142857142857146%;
+	}
+	22.22222222222222% {
+		background-position: 66.66666666666667% 32.142857142857146%;
+	}
+	33.33333333333333% {
+		background-position: 73.33333333333333% 32.142857142857146%;
+	}
+	44.44444444444444% {
+		background-position: 80% 32.142857142857146%;
+	}
+	55.55555555555556% {
+		background-position: 86.66666666666667% 32.142857142857146%;
+	}
+	66.66666666666666% {
+		background-position: 93.33333333333333% 32.142857142857146%;
+	}
+	77.77777777777779% {
+		background-position: 100% 32.142857142857146%;
+	}
+	88.88888888888889% {
+		background-position: 0% 35.714285714285715%;
+	}
+	100% {
+		background-position: 6.666666666666667% 35.714285714285715%;
+	}
+}
+
+.sprite.GhastA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 13.333333333333334% 35.714285714285715%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-GhastA 624ms steps(1) infinite forwards;
+}
+
+@keyframes anim-GhastA {
+	0% {
+		background-position: 13.333333333333334% 35.714285714285715%;
+	}
+	25% {
+		background-position: 13.333333333333334% 35.714285714285715%;
+	}
+	50% {
+		background-position: 20% 35.714285714285715%;
+	}
+	75% {
+		background-position: 26.666666666666668% 35.714285714285715%;
+	}
+	100% {
+		background-position: 33.333333333333336% 35.714285714285715%;
+	}
+}
+
+.sprite.GhastB {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 40% 35.714285714285715%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-GhastB 624ms steps(1) infinite forwards;
+}
+
+@keyframes anim-GhastB {
+	0% {
+		background-position: 40% 35.714285714285715%;
+	}
+	25% {
+		background-position: 40% 35.714285714285715%;
+	}
+	50% {
+		background-position: 46.666666666666664% 35.714285714285715%;
+	}
+	75% {
+		background-position: 53.333333333333336% 35.714285714285715%;
+	}
+	100% {
+		background-position: 60% 35.714285714285715%;
+	}
+}
+
+.sprite.GoatA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 66.66666666666667% 35.714285714285715%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-GoatA 1124ms steps(1) infinite forwards;
+}
+
+@keyframes anim-GoatA {
+	0% {
+		background-position: 66.66666666666667% 35.714285714285715%;
+	}
+	12.5% {
+		background-position: 73.33333333333333% 35.714285714285715%;
+	}
+	25% {
+		background-position: 80% 35.714285714285715%;
+	}
+	37.5% {
+		background-position: 86.66666666666667% 35.714285714285715%;
+	}
+	50% {
+		background-position: 93.33333333333333% 35.714285714285715%;
+	}
+	62.5% {
+		background-position: 100% 35.714285714285715%;
+	}
+	75% {
+		background-position: 100% 35.714285714285715%;
+	}
+	87.5% {
+		background-position: 0% 39.285714285714285%;
+	}
+	100% {
+		background-position: 6.666666666666667% 39.285714285714285%;
+	}
+}
+
+.sprite.GoatA.idle {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 86.66666666666667% 35.714285714285715%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-GoatA-idle 499ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-GoatA-idle {
+	0% {
+		background-position: 86.66666666666667% 35.714285714285715%;
+	}
+	33.33333333333333% {
+		background-position: 93.33333333333333% 35.714285714285715%;
+	}
+	66.66666666666666% {
+		background-position: 100% 35.714285714285715%;
+	}
+	100% {
+		background-position: 6.666666666666667% 39.285714285714285%;
+	}
+}
+
+.sprite.HareA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 13.333333333333334% 39.285714285714285%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-HareA 624ms steps(1) infinite forwards;
+}
+
+@keyframes anim-HareA {
+	0% {
+		background-position: 13.333333333333334% 39.285714285714285%;
+	}
+	25% {
+		background-position: 20% 39.285714285714285%;
+	}
+	50% {
+		background-position: 26.666666666666668% 39.285714285714285%;
+	}
+	75% {
+		background-position: 33.333333333333336% 39.285714285714285%;
+	}
+	100% {
+		background-position: 40% 39.285714285714285%;
+	}
+}
+
+.sprite.HareA.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 13.333333333333334% 39.285714285714285%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-HareA-action 874ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-HareA-action {
+	0% {
+		background-position: 13.333333333333334% 39.285714285714285%;
+	}
+	16.666666666666664% {
+		background-position: 20% 39.285714285714285%;
+	}
+	33.33333333333333% {
+		background-position: 26.666666666666668% 39.285714285714285%;
+	}
+	50% {
+		background-position: 33.333333333333336% 39.285714285714285%;
+	}
+	66.66666666666666% {
+		background-position: 40% 39.285714285714285%;
+	}
+	83.33333333333334% {
+		background-position: 26.666666666666668% 85.71428571428571%;
+	}
+	100% {
+		background-position: 33.333333333333336% 85.71428571428571%;
+	}
+}
+
+.sprite.HareB {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 46.666666666666664% 39.285714285714285%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-HareB 874ms steps(1) infinite forwards;
+}
+
+@keyframes anim-HareB {
+	0% {
+		background-position: 46.666666666666664% 39.285714285714285%;
+	}
+	16.666666666666664% {
+		background-position: 53.333333333333336% 39.285714285714285%;
+	}
+	33.33333333333333% {
+		background-position: 60% 39.285714285714285%;
+	}
+	50% {
+		background-position: 66.66666666666667% 39.285714285714285%;
+	}
+	66.66666666666666% {
+		background-position: 73.33333333333333% 39.285714285714285%;
+	}
+	83.33333333333334% {
+		background-position: 80% 39.285714285714285%;
+	}
+	100% {
+		background-position: 86.66666666666667% 39.285714285714285%;
+	}
+}
+
+.sprite.HeadA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 93.33333333333333% 39.285714285714285%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-HeadA 624ms steps(1) infinite forwards;
+}
+
+@keyframes anim-HeadA {
+	0% {
+		background-position: 93.33333333333333% 39.285714285714285%;
+	}
+	25% {
+		background-position: 100% 39.285714285714285%;
+	}
+	50% {
+		background-position: 0% 42.857142857142854%;
+	}
+	75% {
+		background-position: 6.666666666666667% 42.857142857142854%;
+	}
+	100% {
+		background-position: 13.333333333333334% 42.857142857142854%;
+	}
+}
+
+.sprite.KlackonA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 20% 42.857142857142854%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-KlackonA 1124ms steps(1) infinite forwards;
+}
+
+@keyframes anim-KlackonA {
+	0% {
+		background-position: 20% 42.857142857142854%;
+	}
+	12.5% {
+		background-position: 26.666666666666668% 42.857142857142854%;
+	}
+	25% {
+		background-position: 33.333333333333336% 42.857142857142854%;
+	}
+	37.5% {
+		background-position: 40% 42.857142857142854%;
+	}
+	50% {
+		background-position: 46.666666666666664% 42.857142857142854%;
+	}
+	62.5% {
+		background-position: 53.333333333333336% 42.857142857142854%;
+	}
+	75% {
+		background-position: 60% 42.857142857142854%;
+	}
+	87.5% {
+		background-position: 66.66666666666667% 42.857142857142854%;
+	}
+	100% {
+		background-position: 73.33333333333333% 42.857142857142854%;
+	}
+}
+
+.sprite.MushroomA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 80% 42.857142857142854%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-MushroomA 499ms steps(1) infinite forwards;
+}
+
+@keyframes anim-MushroomA {
+	0% {
+		background-position: 80% 42.857142857142854%;
+	}
+	33.33333333333333% {
+		background-position: 86.66666666666667% 42.857142857142854%;
+	}
+	66.66666666666666% {
+		background-position: 93.33333333333333% 42.857142857142854%;
+	}
+	100% {
+		background-position: 100% 42.857142857142854%;
+	}
+}
+
+.sprite.OrbC {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 0% 46.42857142857143%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-OrbC 749ms steps(1) infinite forwards;
+}
+
+@keyframes anim-OrbC {
+	0% {
+		background-position: 0% 46.42857142857143%;
+	}
+	20% {
+		background-position: 0% 46.42857142857143%;
+	}
+	40% {
+		background-position: 6.666666666666667% 46.42857142857143%;
+	}
+	60% {
+		background-position: 13.333333333333334% 46.42857142857143%;
+	}
+	80% {
+		background-position: 20% 46.42857142857143%;
+	}
+	100% {
+		background-position: 26.666666666666668% 46.42857142857143%;
+	}
+}
+
+.sprite.OrbD {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 33.333333333333336% 46.42857142857143%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-OrbD 999ms steps(1) infinite forwards;
+}
+
+@keyframes anim-OrbD {
+	0% {
+		background-position: 33.333333333333336% 46.42857142857143%;
+	}
+	14.285714285714285% {
+		background-position: 33.333333333333336% 46.42857142857143%;
+	}
+	28.57142857142857% {
+		background-position: 40% 46.42857142857143%;
+	}
+	42.857142857142854% {
+		background-position: 46.666666666666664% 46.42857142857143%;
+	}
+	57.14285714285714% {
+		background-position: 53.333333333333336% 46.42857142857143%;
+	}
+	71.42857142857143% {
+		background-position: 60% 46.42857142857143%;
+	}
+	85.71428571428571% {
+		background-position: 66.66666666666667% 46.42857142857143%;
+	}
+	100% {
+		background-position: 73.33333333333333% 46.42857142857143%;
+	}
+}
+
+.sprite.PuddleA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 80% 46.42857142857143%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-PuddleA 624ms steps(1) infinite forwards;
+}
+
+@keyframes anim-PuddleA {
+	0% {
+		background-position: 80% 46.42857142857143%;
+	}
+	25% {
+		background-position: 86.66666666666667% 46.42857142857143%;
+	}
+	50% {
+		background-position: 93.33333333333333% 46.42857142857143%;
+	}
+	75% {
+		background-position: 100% 46.42857142857143%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.sprite.SentryC {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 6.666666666666667% 50%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SentryC 499ms steps(1) infinite forwards;
+}
+
+@keyframes anim-SentryC {
+	0% {
+		background-position: 6.666666666666667% 50%;
+	}
+	33.33333333333333% {
+		background-position: 13.333333333333334% 50%;
+	}
+	66.66666666666666% {
+		background-position: 20% 50%;
+	}
+	100% {
+		background-position: 26.666666666666668% 50%;
+	}
+}
+
+.sprite.SentryCopterB {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 33.333333333333336% 50%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SentryCopterB 749ms steps(1) infinite forwards;
+}
+
+@keyframes anim-SentryCopterB {
+	0% {
+		background-position: 33.333333333333336% 50%;
+	}
+	20% {
+		background-position: 40% 50%;
+	}
+	40% {
+		background-position: 46.666666666666664% 50%;
+	}
+	60% {
+		background-position: 53.333333333333336% 50%;
+	}
+	80% {
+		background-position: 60% 50%;
+	}
+	100% {
+		background-position: 66.66666666666667% 50%;
+	}
+}
+
+.sprite.SentryCopterB.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 66.66666666666667% 50%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SentryCopterB-action 624ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-SentryCopterB-action {
+	0% {
+		background-position: 66.66666666666667% 50%;
+	}
+	25% {
+		background-position: 66.66666666666667% 89.28571428571429%;
+	}
+	50% {
+		background-position: 73.33333333333333% 89.28571428571429%;
+	}
+	75% {
+		background-position: 80% 89.28571428571429%;
+	}
+	100% {
+		background-position: 86.66666666666667% 89.28571428571429%;
+	}
+}
+
+.sprite.SkeletonB {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 73.33333333333333% 50%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SkeletonB 749ms steps(1) infinite forwards;
+}
+
+@keyframes anim-SkeletonB {
+	0% {
+		background-position: 73.33333333333333% 50%;
+	}
+	20% {
+		background-position: 80% 50%;
+	}
+	40% {
+		background-position: 86.66666666666667% 50%;
+	}
+	60% {
+		background-position: 93.33333333333333% 50%;
+	}
+	80% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 53.57142857142857%;
+	}
+}
+
+.sprite.SkeletonB.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 100% 50%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SkeletonB-action 624ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-SkeletonB-action {
+	0% {
+		background-position: 100% 50%;
+	}
+	25% {
+		background-position: 0% 53.57142857142857%;
+	}
+	50% {
+		background-position: 93.33333333333333% 89.28571428571429%;
+	}
+	75% {
+		background-position: 100% 89.28571428571429%;
+	}
+	100% {
+		background-position: 0% 92.85714285714286%;
+	}
+}
+
+.sprite.SkullA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 6.666666666666667% 53.57142857142857%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SkullA 999ms steps(1) infinite forwards;
+}
+
+@keyframes anim-SkullA {
+	0% {
+		background-position: 6.666666666666667% 53.57142857142857%;
+	}
+	14.285714285714285% {
+		background-position: 13.333333333333334% 53.57142857142857%;
+	}
+	28.57142857142857% {
+		background-position: 20% 53.57142857142857%;
+	}
+	42.857142857142854% {
+		background-position: 26.666666666666668% 53.57142857142857%;
+	}
+	57.14285714285714% {
+		background-position: 33.333333333333336% 53.57142857142857%;
+	}
+	71.42857142857143% {
+		background-position: 40% 53.57142857142857%;
+	}
+	85.71428571428571% {
+		background-position: 46.666666666666664% 53.57142857142857%;
+	}
+	100% {
+		background-position: 53.333333333333336% 53.57142857142857%;
+	}
+}
+
+.sprite.SlimeE {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 60% 53.57142857142857%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SlimeE 999ms steps(1) infinite forwards;
+}
+
+@keyframes anim-SlimeE {
+	0% {
+		background-position: 60% 53.57142857142857%;
+	}
+	14.285714285714285% {
+		background-position: 66.66666666666667% 53.57142857142857%;
+	}
+	28.57142857142857% {
+		background-position: 73.33333333333333% 53.57142857142857%;
+	}
+	42.857142857142854% {
+		background-position: 80% 53.57142857142857%;
+	}
+	57.14285714285714% {
+		background-position: 86.66666666666667% 53.57142857142857%;
+	}
+	71.42857142857143% {
+		background-position: 93.33333333333333% 53.57142857142857%;
+	}
+	85.71428571428571% {
+		background-position: 100% 53.57142857142857%;
+	}
+	100% {
+		background-position: 0% 57.142857142857146%;
+	}
+}
+
+.sprite.SlimeI {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 6.666666666666667% 57.142857142857146%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SlimeI 999ms steps(1) infinite forwards;
+}
+
+@keyframes anim-SlimeI {
+	0% {
+		background-position: 6.666666666666667% 57.142857142857146%;
+	}
+	14.285714285714285% {
+		background-position: 13.333333333333334% 57.142857142857146%;
+	}
+	28.57142857142857% {
+		background-position: 20% 57.142857142857146%;
+	}
+	42.857142857142854% {
+		background-position: 26.666666666666668% 57.142857142857146%;
+	}
+	57.14285714285714% {
+		background-position: 33.333333333333336% 57.142857142857146%;
+	}
+	71.42857142857143% {
+		background-position: 40% 57.142857142857146%;
+	}
+	85.71428571428571% {
+		background-position: 46.666666666666664% 57.142857142857146%;
+	}
+	100% {
+		background-position: 53.333333333333336% 57.142857142857146%;
+	}
+}
+
+.sprite.SlimeSmallerA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 60% 57.142857142857146%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SlimeSmallerA 874ms steps(1) infinite forwards;
+}
+
+@keyframes anim-SlimeSmallerA {
+	0% {
+		background-position: 60% 57.142857142857146%;
+	}
+	16.666666666666664% {
+		background-position: 66.66666666666667% 57.142857142857146%;
+	}
+	33.33333333333333% {
+		background-position: 73.33333333333333% 57.142857142857146%;
+	}
+	50% {
+		background-position: 80% 57.142857142857146%;
+	}
+	66.66666666666666% {
+		background-position: 86.66666666666667% 57.142857142857146%;
+	}
+	83.33333333333334% {
+		background-position: 93.33333333333333% 57.142857142857146%;
+	}
+	100% {
+		background-position: 100% 57.142857142857146%;
+	}
+}
+
+.sprite.SlimeSmallerA.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 60% 57.142857142857146%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SlimeSmallerA-action 1249ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-SlimeSmallerA-action {
+	0% {
+		background-position: 60% 57.142857142857146%;
+	}
+	11.11111111111111% {
+		background-position: 66.66666666666667% 57.142857142857146%;
+	}
+	22.22222222222222% {
+		background-position: 66.66666666666667% 57.142857142857146%;
+	}
+	33.33333333333333% {
+		background-position: 40% 96.42857142857143%;
+	}
+	44.44444444444444% {
+		background-position: 46.666666666666664% 96.42857142857143%;
+	}
+	55.55555555555556% {
+		background-position: 53.333333333333336% 96.42857142857143%;
+	}
+	66.66666666666666% {
+		background-position: 60% 96.42857142857143%;
+	}
+	77.77777777777779% {
+		background-position: 66.66666666666667% 96.42857142857143%;
+	}
+	88.88888888888889% {
+		background-position: 73.33333333333333% 96.42857142857143%;
+	}
+	100% {
+		background-position: 80% 96.42857142857143%;
+	}
+}
+
+.sprite.SlimeSquareA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 0% 60.714285714285715%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SlimeSquareA 624ms steps(1) infinite forwards;
+}
+
+@keyframes anim-SlimeSquareA {
+	0% {
+		background-position: 0% 60.714285714285715%;
+	}
+	25% {
+		background-position: 6.666666666666667% 60.714285714285715%;
+	}
+	50% {
+		background-position: 13.333333333333334% 60.714285714285715%;
+	}
+	75% {
+		background-position: 20% 60.714285714285715%;
+	}
+	100% {
+		background-position: 26.666666666666668% 60.714285714285715%;
+	}
+}
+
+.sprite.SlimeSquareH {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 33.333333333333336% 60.714285714285715%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SlimeSquareH 624ms steps(1) infinite forwards;
+}
+
+@keyframes anim-SlimeSquareH {
+	0% {
+		background-position: 33.333333333333336% 60.714285714285715%;
+	}
+	25% {
+		background-position: 40% 60.714285714285715%;
+	}
+	50% {
+		background-position: 46.666666666666664% 60.714285714285715%;
+	}
+	75% {
+		background-position: 53.333333333333336% 60.714285714285715%;
+	}
+	100% {
+		background-position: 60% 60.714285714285715%;
+	}
+}
+
+.sprite.SlimeSquareI {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 66.66666666666667% 60.714285714285715%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SlimeSquareI 624ms steps(1) infinite forwards;
+}
+
+@keyframes anim-SlimeSquareI {
+	0% {
+		background-position: 66.66666666666667% 60.714285714285715%;
+	}
+	25% {
+		background-position: 73.33333333333333% 60.714285714285715%;
+	}
+	50% {
+		background-position: 80% 60.714285714285715%;
+	}
+	75% {
+		background-position: 86.66666666666667% 60.714285714285715%;
+	}
+	100% {
+		background-position: 93.33333333333333% 60.714285714285715%;
+	}
+}
+
+.sprite.SlimeSquareSmallA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 100% 60.714285714285715%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SlimeSquareSmallA 624ms steps(1) infinite forwards;
+}
+
+@keyframes anim-SlimeSquareSmallA {
+	0% {
+		background-position: 100% 60.714285714285715%;
+	}
+	25% {
+		background-position: 0% 64.28571428571429%;
+	}
+	50% {
+		background-position: 6.666666666666667% 64.28571428571429%;
+	}
+	75% {
+		background-position: 13.333333333333334% 64.28571428571429%;
+	}
+	100% {
+		background-position: 20% 64.28571428571429%;
+	}
+}
+
+.sprite.SlimeSquareSmallerA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 26.666666666666668% 64.28571428571429%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SlimeSquareSmallerA 624ms steps(1) infinite forwards;
+}
+
+@keyframes anim-SlimeSquareSmallerA {
+	0% {
+		background-position: 26.666666666666668% 64.28571428571429%;
+	}
+	25% {
+		background-position: 33.333333333333336% 64.28571428571429%;
+	}
+	50% {
+		background-position: 40% 64.28571428571429%;
+	}
+	75% {
+		background-position: 46.666666666666664% 64.28571428571429%;
+	}
+	100% {
+		background-position: 53.333333333333336% 64.28571428571429%;
+	}
+}
+
+.sprite.SlimeSquareSmallerI {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 60% 64.28571428571429%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SlimeSquareSmallerI 624ms steps(1) infinite forwards;
+}
+
+@keyframes anim-SlimeSquareSmallerI {
+	0% {
+		background-position: 60% 64.28571428571429%;
+	}
+	25% {
+		background-position: 66.66666666666667% 64.28571428571429%;
+	}
+	50% {
+		background-position: 73.33333333333333% 64.28571428571429%;
+	}
+	75% {
+		background-position: 80% 64.28571428571429%;
+	}
+	100% {
+		background-position: 86.66666666666667% 64.28571428571429%;
+	}
+}
+
+.sprite.SpaceA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 93.33333333333333% 64.28571428571429%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SpaceA 999ms steps(1) infinite forwards;
+}
+
+@keyframes anim-SpaceA {
+	0% {
+		background-position: 93.33333333333333% 64.28571428571429%;
+	}
+	14.285714285714285% {
+		background-position: 100% 64.28571428571429%;
+	}
+	28.57142857142857% {
+		background-position: 0% 67.85714285714286%;
+	}
+	42.857142857142854% {
+		background-position: 6.666666666666667% 67.85714285714286%;
+	}
+	57.14285714285714% {
+		background-position: 13.333333333333334% 67.85714285714286%;
+	}
+	71.42857142857143% {
+		background-position: 20% 67.85714285714286%;
+	}
+	85.71428571428571% {
+		background-position: 26.666666666666668% 67.85714285714286%;
+	}
+	100% {
+		background-position: 33.333333333333336% 67.85714285714286%;
+	}
+}
+
+.sprite.SpaceB {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 40% 67.85714285714286%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SpaceB 499ms steps(1) infinite forwards;
+}
+
+@keyframes anim-SpaceB {
+	0% {
+		background-position: 40% 67.85714285714286%;
+	}
+	33.33333333333333% {
+		background-position: 46.666666666666664% 67.85714285714286%;
+	}
+	66.66666666666666% {
+		background-position: 53.333333333333336% 67.85714285714286%;
+	}
+	100% {
+		background-position: 60% 67.85714285714286%;
+	}
+}
+
+.sprite.SparksA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 66.66666666666667% 67.85714285714286%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SparksA 874ms steps(1) infinite forwards;
+}
+
+@keyframes anim-SparksA {
+	0% {
+		background-position: 66.66666666666667% 67.85714285714286%;
+	}
+	16.666666666666664% {
+		background-position: 73.33333333333333% 67.85714285714286%;
+	}
+	33.33333333333333% {
+		background-position: 80% 67.85714285714286%;
+	}
+	50% {
+		background-position: 86.66666666666667% 67.85714285714286%;
+	}
+	66.66666666666666% {
+		background-position: 93.33333333333333% 67.85714285714286%;
+	}
+	83.33333333333334% {
+		background-position: 100% 67.85714285714286%;
+	}
+	100% {
+		background-position: 0% 71.42857142857143%;
+	}
+}
+
+.sprite.SquirrelA {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 6.666666666666667% 71.42857142857143%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SquirrelA 749ms steps(1) infinite forwards;
+}
+
+@keyframes anim-SquirrelA {
+	0% {
+		background-position: 6.666666666666667% 71.42857142857143%;
+	}
+	20% {
+		background-position: 13.333333333333334% 71.42857142857143%;
+	}
+	40% {
+		background-position: 20% 71.42857142857143%;
+	}
+	60% {
+		background-position: 26.666666666666668% 71.42857142857143%;
+	}
+	80% {
+		background-position: 33.333333333333336% 71.42857142857143%;
+	}
+	100% {
+		background-position: 40% 71.42857142857143%;
+	}
+}
+
+.sprite.WitchB {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 46.666666666666664% 71.42857142857143%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-WitchB 499ms steps(1) infinite forwards;
+}
+
+@keyframes anim-WitchB {
+	0% {
+		background-position: 46.666666666666664% 71.42857142857143%;
+	}
+	33.33333333333333% {
+		background-position: 53.333333333333336% 71.42857142857143%;
+	}
+	66.66666666666666% {
+		background-position: 60% 71.42857142857143%;
+	}
+	100% {
+		background-position: 66.66666666666667% 71.42857142857143%;
+	}
+}
+
+.sprite.ZombieB {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 73.33333333333333% 71.42857142857143%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-ZombieB 749ms steps(1) infinite forwards;
+}
+
+@keyframes anim-ZombieB {
+	0% {
+		background-position: 73.33333333333333% 71.42857142857143%;
+	}
+	20% {
+		background-position: 80% 71.42857142857143%;
+	}
+	40% {
+		background-position: 86.66666666666667% 71.42857142857143%;
+	}
+	60% {
+		background-position: 93.33333333333333% 71.42857142857143%;
+	}
+	80% {
+		background-position: 100% 71.42857142857143%;
+	}
+	100% {
+		background-position: 0% 75%;
+	}
+}
+
+.sprite.BallB.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 6.666666666666667% 75%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-BallB-action 249ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-BallB-action {
+	0% {
+		background-position: 6.666666666666667% 75%;
+	}
+	100% {
+		background-position: 13.333333333333334% 75%;
+	}
+}
+
+.sprite.BallD.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 20% 75%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-BallD-action 249ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-BallD-action {
+	0% {
+		background-position: 20% 75%;
+	}
+	100% {
+		background-position: 26.666666666666668% 75%;
+	}
+}
+
+.sprite.ChestA.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 33.333333333333336% 75%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-ChestA-action 1124ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-ChestA-action {
+	0% {
+		background-position: 33.333333333333336% 75%;
+	}
+	12.5% {
+		background-position: 40% 75%;
+	}
+	25% {
+		background-position: 46.666666666666664% 75%;
+	}
+	37.5% {
+		background-position: 53.333333333333336% 75%;
+	}
+	50% {
+		background-position: 60% 75%;
+	}
+	62.5% {
+		background-position: 66.66666666666667% 75%;
+	}
+	75% {
+		background-position: 73.33333333333333% 75%;
+	}
+	87.5% {
+		background-position: 80% 75%;
+	}
+	100% {
+		background-position: 86.66666666666667% 75%;
+	}
+}
+
+.sprite.ChickenA.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 93.33333333333333% 75%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-ChickenA-action 249ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-ChickenA-action {
+	0% {
+		background-position: 93.33333333333333% 75%;
+	}
+	100% {
+		background-position: 100% 75%;
+	}
+}
+
+.sprite.DwarfA.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 0% 78.57142857142857%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-DwarfA-action 499ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-DwarfA-action {
+	0% {
+		background-position: 0% 78.57142857142857%;
+	}
+	33.33333333333333% {
+		background-position: 6.666666666666667% 78.57142857142857%;
+	}
+	66.66666666666666% {
+		background-position: 13.333333333333334% 78.57142857142857%;
+	}
+	100% {
+		background-position: 20% 78.57142857142857%;
+	}
+}
+
+.sprite.DwarfE.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 26.666666666666668% 78.57142857142857%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-DwarfE-action 499ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-DwarfE-action {
+	0% {
+		background-position: 26.666666666666668% 78.57142857142857%;
+	}
+	33.33333333333333% {
+		background-position: 33.333333333333336% 78.57142857142857%;
+	}
+	66.66666666666666% {
+		background-position: 40% 78.57142857142857%;
+	}
+	100% {
+		background-position: 46.666666666666664% 78.57142857142857%;
+	}
+}
+
+.sprite.DyeA.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 53.333333333333336% 78.57142857142857%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-DyeA-action 749ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-DyeA-action {
+	0% {
+		background-position: 53.333333333333336% 78.57142857142857%;
+	}
+	20% {
+		background-position: 60% 78.57142857142857%;
+	}
+	40% {
+		background-position: 66.66666666666667% 78.57142857142857%;
+	}
+	60% {
+		background-position: 73.33333333333333% 78.57142857142857%;
+	}
+	80% {
+		background-position: 80% 78.57142857142857%;
+	}
+	100% {
+		background-position: 86.66666666666667% 78.57142857142857%;
+	}
+}
+
+.sprite.DyeD.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 93.33333333333333% 78.57142857142857%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-DyeD-action 874ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-DyeD-action {
+	0% {
+		background-position: 93.33333333333333% 78.57142857142857%;
+	}
+	16.666666666666664% {
+		background-position: 100% 78.57142857142857%;
+	}
+	33.33333333333333% {
+		background-position: 0% 82.14285714285714%;
+	}
+	50% {
+		background-position: 6.666666666666667% 82.14285714285714%;
+	}
+	66.66666666666666% {
+		background-position: 13.333333333333334% 82.14285714285714%;
+	}
+	83.33333333333334% {
+		background-position: 20% 82.14285714285714%;
+	}
+	100% {
+		background-position: 26.666666666666668% 82.14285714285714%;
+	}
+}
+
+.sprite.EyeB.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 33.333333333333336% 82.14285714285714%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-EyeB-action 249ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-EyeB-action {
+	0% {
+		background-position: 33.333333333333336% 82.14285714285714%;
+	}
+	100% {
+		background-position: 40% 82.14285714285714%;
+	}
+}
+
+.sprite.EyeBallB.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 46.666666666666664% 82.14285714285714%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-EyeBallB-action 874ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-EyeBallB-action {
+	0% {
+		background-position: 46.666666666666664% 82.14285714285714%;
+	}
+	16.666666666666664% {
+		background-position: 53.333333333333336% 82.14285714285714%;
+	}
+	33.33333333333333% {
+		background-position: 60% 82.14285714285714%;
+	}
+	50% {
+		background-position: 66.66666666666667% 82.14285714285714%;
+	}
+	66.66666666666666% {
+		background-position: 73.33333333333333% 82.14285714285714%;
+	}
+	83.33333333333334% {
+		background-position: 80% 82.14285714285714%;
+	}
+	100% {
+		background-position: 86.66666666666667% 82.14285714285714%;
+	}
+}
+
+.sprite.GhastA.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 93.33333333333333% 82.14285714285714%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-GhastA-action 374ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-GhastA-action {
+	0% {
+		background-position: 93.33333333333333% 82.14285714285714%;
+	}
+	50% {
+		background-position: 100% 82.14285714285714%;
+	}
+	100% {
+		background-position: 0% 85.71428571428571%;
+	}
+}
+
+.sprite.GhastB.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 6.666666666666667% 85.71428571428571%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-GhastB-action 374ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-GhastB-action {
+	0% {
+		background-position: 6.666666666666667% 85.71428571428571%;
+	}
+	50% {
+		background-position: 13.333333333333334% 85.71428571428571%;
+	}
+	100% {
+		background-position: 20% 85.71428571428571%;
+	}
+}
+
+.sprite.HeadA.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 40% 85.71428571428571%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-HeadA-action 499ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-HeadA-action {
+	0% {
+		background-position: 40% 85.71428571428571%;
+	}
+	33.33333333333333% {
+		background-position: 46.666666666666664% 85.71428571428571%;
+	}
+	66.66666666666666% {
+		background-position: 53.333333333333336% 85.71428571428571%;
+	}
+	100% {
+		background-position: 60% 85.71428571428571%;
+	}
+}
+
+.sprite.OrbC.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 66.66666666666667% 85.71428571428571%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-OrbC-action 249ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-OrbC-action {
+	0% {
+		background-position: 66.66666666666667% 85.71428571428571%;
+	}
+	100% {
+		background-position: 73.33333333333333% 85.71428571428571%;
+	}
+}
+
+.sprite.PuddleA.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 80% 85.71428571428571%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-PuddleA-action 1249ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-PuddleA-action {
+	0% {
+		background-position: 80% 85.71428571428571%;
+	}
+	11.11111111111111% {
+		background-position: 86.66666666666667% 85.71428571428571%;
+	}
+	22.22222222222222% {
+		background-position: 93.33333333333333% 85.71428571428571%;
+	}
+	33.33333333333333% {
+		background-position: 100% 85.71428571428571%;
+	}
+	44.44444444444444% {
+		background-position: 0% 89.28571428571429%;
+	}
+	55.55555555555556% {
+		background-position: 6.666666666666667% 89.28571428571429%;
+	}
+	66.66666666666666% {
+		background-position: 13.333333333333334% 89.28571428571429%;
+	}
+	77.77777777777779% {
+		background-position: 20% 89.28571428571429%;
+	}
+	88.88888888888889% {
+		background-position: 26.666666666666668% 89.28571428571429%;
+	}
+	100% {
+		background-position: 33.333333333333336% 89.28571428571429%;
+	}
+}
+
+.sprite.SentryC.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 40% 89.28571428571429%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SentryC-action 499ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-SentryC-action {
+	0% {
+		background-position: 40% 89.28571428571429%;
+	}
+	33.33333333333333% {
+		background-position: 46.666666666666664% 89.28571428571429%;
+	}
+	66.66666666666666% {
+		background-position: 53.333333333333336% 89.28571428571429%;
+	}
+	100% {
+		background-position: 60% 89.28571428571429%;
+	}
+}
+
+.sprite.SkullA.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 6.666666666666667% 92.85714285714286%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SkullA-action 624ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-SkullA-action {
+	0% {
+		background-position: 6.666666666666667% 92.85714285714286%;
+	}
+	25% {
+		background-position: 13.333333333333334% 92.85714285714286%;
+	}
+	50% {
+		background-position: 20% 92.85714285714286%;
+	}
+	75% {
+		background-position: 26.666666666666668% 92.85714285714286%;
+	}
+	100% {
+		background-position: 33.333333333333336% 92.85714285714286%;
+	}
+}
+
+.sprite.SlimeE.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 40% 92.85714285714286%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SlimeE-action 999ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-SlimeE-action {
+	0% {
+		background-position: 40% 92.85714285714286%;
+	}
+	14.285714285714285% {
+		background-position: 46.666666666666664% 92.85714285714286%;
+	}
+	28.57142857142857% {
+		background-position: 53.333333333333336% 92.85714285714286%;
+	}
+	42.857142857142854% {
+		background-position: 60% 92.85714285714286%;
+	}
+	57.14285714285714% {
+		background-position: 66.66666666666667% 92.85714285714286%;
+	}
+	71.42857142857143% {
+		background-position: 73.33333333333333% 92.85714285714286%;
+	}
+	85.71428571428571% {
+		background-position: 80% 92.85714285714286%;
+	}
+	100% {
+		background-position: 86.66666666666667% 92.85714285714286%;
+	}
+}
+
+.sprite.SlimeI.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 93.33333333333333% 92.85714285714286%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-SlimeI-action 999ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-SlimeI-action {
+	0% {
+		background-position: 93.33333333333333% 92.85714285714286%;
+	}
+	14.285714285714285% {
+		background-position: 100% 92.85714285714286%;
+	}
+	28.57142857142857% {
+		background-position: 0% 96.42857142857143%;
+	}
+	42.857142857142854% {
+		background-position: 6.666666666666667% 96.42857142857143%;
+	}
+	57.14285714285714% {
+		background-position: 13.333333333333334% 96.42857142857143%;
+	}
+	71.42857142857143% {
+		background-position: 20% 96.42857142857143%;
+	}
+	85.71428571428571% {
+		background-position: 26.666666666666668% 96.42857142857143%;
+	}
+	100% {
+		background-position: 33.333333333333336% 96.42857142857143%;
+	}
+}
+
+.sprite.WitchB.action {
+	display: inline-block;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	width: 32px;
+	height: 32px;
+	background-size: 1600% 2900%;
+	background-position: 86.66666666666667% 96.42857142857143%;
+	background-image: url(mobs-0.png);
+	padding: 0;
+	animation: anim-WitchB-action 499ms steps(1) infinite forwards !important;
+}
+
+@keyframes anim-WitchB-action {
+	0% {
+		background-position: 86.66666666666667% 96.42857142857143%;
+	}
+	33.33333333333333% {
+		background-position: 93.33333333333333% 96.42857142857143%;
+	}
+	66.66666666666666% {
+		background-position: 100% 96.42857142857143%;
+	}
+	100% {
+		background-position: 0% 100%;
+	}
+}
+
+
+/* $TexturePacker:SmartUpdate:8102d518489472fa447e039648646d2d:5826aa38cd40672b7468c1a431fe8c8b:3fba3012644fe546cc0098ad2d20db86$ */
